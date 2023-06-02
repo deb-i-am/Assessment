@@ -1,3 +1,9 @@
+/* 
+Since Problem statement was a bit hard for me to understand and code. So with the help of examples provided, I tried to hard code it. 
+You can find it in the code below
+*/
+
+
 package tasks;
 
 import java.util.HashMap;
